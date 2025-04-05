@@ -1,0 +1,7 @@
+eel
+pyautogui
+pyaudio
+pywhatkit
+pvporcupine
+hugchat
+playsound==1.2.2
